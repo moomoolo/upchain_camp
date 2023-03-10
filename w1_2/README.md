@@ -13,10 +13,10 @@ npx hardhat run scripts/deploy.ts
 ```
 ## 部署
 
-![deploy](./img/deploy.png)
+![deploy](https://raw.githubusercontent.com/moomoolo/upchain_camp/main/w1_2/img/deploy.png)
 
 ## 验证
 
-![verify](./img/verify.png)
+![verify](https://raw.githubusercontent.com/moomoolo/upchain_camp/main/w1_2/img/verify.png)
 
 查看合约：https://goerli.etherscan.io/address/0xb57e3fc321f11b4bc247de256ea95a5ec94e1801#code
